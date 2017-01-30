@@ -1,0 +1,17 @@
+name: mongolia
+
+channels:
+ - conda-forge
+ 
+dependencies:
+- python=3.5
+- ipython
+- jupyter
+- jupyter_contrib_nbextensions
+- jupyter_nbextensions_configurator
+- notebook
+- seaborn 
+- patsy 
+- pandas
+- pip:
+    - git+https://github.com/pymc-devs/pymc3.git#egg=pymc3
