@@ -13,5 +13,7 @@ dependencies:
 - seaborn 
 - patsy 
 - pandas
+- xlrd
 - pip:
+    - geopandas
     - git+https://github.com/pymc-devs/pymc3.git#egg=pymc3
