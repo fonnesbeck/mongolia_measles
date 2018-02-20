@@ -4,7 +4,7 @@ channels:
  - conda-forge
  
 dependencies:
-- python=3.5
+- python=3.6
 - ipython
 - jupyter
 - jupyter_contrib_nbextensions
@@ -14,6 +14,6 @@ dependencies:
 - patsy 
 - pandas
 - xlrd
+- geopandas
 - pip:
-    - geopandas
     - git+https://github.com/pymc-devs/pymc3.git#egg=pymc3

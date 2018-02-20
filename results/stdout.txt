@@ -1,0 +1,35 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 16:17:57.879 NotebookApp] Copying /home/ubuntu/.ipython/kernels -> /home/ubuntu/.local/share/jupyter/kernels
+[I 16:17:57.889 NotebookApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
+[W 16:17:57.893 NotebookApp] Config option `base_kernel_url` not recognized by `NotebookApp`.  Did you mean one of: `base_project_url, base_url`?
+[I 16:17:58.687 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[I 16:17:58.692 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 16:17:58.743 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 16:17:58.856 NotebookApp] [nb_anacondacloud] enabled
+[I 16:17:58.861 NotebookApp] [nb_conda] enabled
+[I 16:17:58.904 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 16:17:58.904 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 16:17:58.907 NotebookApp] Serving notebooks from local directory: /mnt
+[I 16:17:58.907 NotebookApp] 0 active kernels 
+[I 16:17:58.907 NotebookApp] The Jupyter Notebook is running at: http://172.17.0.2:8888/fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/
+[I 16:17:58.907 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:18:02.270 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.254.176) 1.36ms
+[I 16:18:05.869 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.40.19) 0.75ms
+[I 16:18:07.155 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.40.19) 0.74ms
+[I 16:18:07.161 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.40.19) 0.63ms
+[I 16:18:08.143 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.194.105) 0.73ms
+[I 16:18:08.257 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.254.176) 0.73ms
+[I 16:18:22.686 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.40.19) 0.45ms
+[I 16:18:23.495 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.194.105) 0.46ms
+[I 16:18:23.633 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.254.176) 0.45ms
+[I 16:18:30.924 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 16:18:30.927 NotebookApp] Notebook notebooks/Confirmation Rates (GP).ipynb is not trusted
+[I 16:18:34.452 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.194.105) 0.45ms
+[I 16:18:34.628 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.254.176) 0.45ms
+[I 16:18:34.657 NotebookApp] Kernel started: d98cdec0-1b34-4d2f-9e3e-2e49977705f5
+[I 16:18:34.804 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.40.19) 0.43ms
+[I 16:20:34.374 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.194.105) 0.46ms
+[I 16:20:35.023 NotebookApp] Saving file at /notebooks/Confirmation Rates (GP).ipynb
+[W 16:20:35.024 NotebookApp] Saving untrusted notebook notebooks/Confirmation Rates (GP).ipynb
+[I 16:20:57.870 NotebookApp] 302 GET /fonnesbeck/mongolia_measles/notebookSession/5911e7eb44148fb67eb21760/ (10.0.40.19) 0.44ms

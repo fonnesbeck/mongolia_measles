@@ -84,3 +84,4 @@ ENV/
 
 .DS_Store
 data/raw
+.domino*
