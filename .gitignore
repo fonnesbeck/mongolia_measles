@@ -85,3 +85,5 @@ ENV/
 .DS_Store
 data/raw
 .domino*
+nohup.out
+*.zip
